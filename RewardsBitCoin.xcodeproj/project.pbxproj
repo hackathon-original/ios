@@ -12,6 +12,18 @@
 		0608AEBF1FD33B49009EF983 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0608AEBD1FD33B49009EF983 /* Main.storyboard */; };
 		0608AEC11FD33B49009EF983 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0608AEC01FD33B49009EF983 /* Assets.xcassets */; };
 		0608AEC41FD33B49009EF983 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0608AEC21FD33B49009EF983 /* LaunchScreen.storyboard */; };
+		0608AECC1FD36C3D009EF983 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0608AECB1FD36C3D009EF983 /* CollectionViewController.swift */; };
+		0608AECE1FD36DB9009EF983 /* CellMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0608AECD1FD36DB9009EF983 /* CellMain.swift */; };
+		068B1ED61FD38D9E00C6A3EC /* BalanceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B1ED51FD38D9E00C6A3EC /* BalanceModel.swift */; };
+		068B1ED81FD3A8BA00C6A3EC /* TotalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B1ED71FD3A8BA00C6A3EC /* TotalViewController.swift */; };
+		068B1EE01FD4314E00C6A3EC /* img1.png in Resources */ = {isa = PBXBuildFile; fileRef = 068B1EDD1FD430D800C6A3EC /* img1.png */; };
+		068B1EE11FD4314E00C6A3EC /* img2.png in Resources */ = {isa = PBXBuildFile; fileRef = 068B1EDE1FD430D800C6A3EC /* img2.png */; };
+		068B1EE21FD4314E00C6A3EC /* img3.png in Resources */ = {isa = PBXBuildFile; fileRef = 068B1EDF1FD430D800C6A3EC /* img3.png */; };
+		068ECCA41FD376F9006C0728 /* OpenApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068ECCA31FD376F9006C0728 /* OpenApiService.swift */; };
+		068ECCA61FD3776C006C0728 /* Rewards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068ECCA51FD3776C006C0728 /* Rewards.swift */; };
+		068ECCA81FD37C58006C0728 /* SaberMaisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068ECCA71FD37C58006C0728 /* SaberMaisViewController.swift */; };
+		068ECCAA1FD384C1006C0728 /* ComprarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068ECCA91FD384C1006C0728 /* ComprarViewController.swift */; };
+		DBEF14C4817693E7B56705DE /* Pods_RewardsBitCoin.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 259CD8751EC7C64C53F86458 /* Pods_RewardsBitCoin.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,20 @@
 		0608AEC01FD33B49009EF983 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0608AEC31FD33B49009EF983 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0608AEC51FD33B49009EF983 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0608AECB1FD36C3D009EF983 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
+		0608AECD1FD36DB9009EF983 /* CellMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellMain.swift; sourceTree = "<group>"; };
+		068B1ED51FD38D9E00C6A3EC /* BalanceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalanceModel.swift; sourceTree = "<group>"; };
+		068B1ED71FD3A8BA00C6A3EC /* TotalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalViewController.swift; sourceTree = "<group>"; };
+		068B1EDD1FD430D800C6A3EC /* img1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img1.png; sourceTree = "<group>"; };
+		068B1EDE1FD430D800C6A3EC /* img2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img2.png; sourceTree = "<group>"; };
+		068B1EDF1FD430D800C6A3EC /* img3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img3.png; sourceTree = "<group>"; };
+		068ECCA31FD376F9006C0728 /* OpenApiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenApiService.swift; sourceTree = "<group>"; };
+		068ECCA51FD3776C006C0728 /* Rewards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rewards.swift; sourceTree = "<group>"; };
+		068ECCA71FD37C58006C0728 /* SaberMaisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaberMaisViewController.swift; sourceTree = "<group>"; };
+		068ECCA91FD384C1006C0728 /* ComprarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComprarViewController.swift; sourceTree = "<group>"; };
+		259CD8751EC7C64C53F86458 /* Pods_RewardsBitCoin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RewardsBitCoin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		72A962EFB4514C77B4D94D53 /* Pods-RewardsBitCoin.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RewardsBitCoin.release.xcconfig"; path = "Pods/Target Support Files/Pods-RewardsBitCoin/Pods-RewardsBitCoin.release.xcconfig"; sourceTree = "<group>"; };
+		FFD9283DBA72434F683ED475 /* Pods-RewardsBitCoin.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RewardsBitCoin.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RewardsBitCoin/Pods-RewardsBitCoin.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +55,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBEF14C4817693E7B56705DE /* Pods_RewardsBitCoin.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +67,8 @@
 			children = (
 				0608AEB81FD33B49009EF983 /* RewardsBitCoin */,
 				0608AEB71FD33B49009EF983 /* Products */,
+				BFC685595E218DC929C4095A /* Pods */,
+				4FE9769294B42071DB532C46 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +83,42 @@
 		0608AEB81FD33B49009EF983 /* RewardsBitCoin */ = {
 			isa = PBXGroup;
 			children = (
+				068B1EDD1FD430D800C6A3EC /* img1.png */,
+				068B1EDE1FD430D800C6A3EC /* img2.png */,
+				068B1EDF1FD430D800C6A3EC /* img3.png */,
 				0608AEB91FD33B49009EF983 /* AppDelegate.swift */,
+				068ECCA51FD3776C006C0728 /* Rewards.swift */,
 				0608AEBB1FD33B49009EF983 /* ViewController.swift */,
 				0608AEBD1FD33B49009EF983 /* Main.storyboard */,
+				068B1ED71FD3A8BA00C6A3EC /* TotalViewController.swift */,
+				068ECCA91FD384C1006C0728 /* ComprarViewController.swift */,
+				068ECCA71FD37C58006C0728 /* SaberMaisViewController.swift */,
 				0608AEC01FD33B49009EF983 /* Assets.xcassets */,
 				0608AEC21FD33B49009EF983 /* LaunchScreen.storyboard */,
 				0608AEC51FD33B49009EF983 /* Info.plist */,
+				0608AECB1FD36C3D009EF983 /* CollectionViewController.swift */,
+				0608AECD1FD36DB9009EF983 /* CellMain.swift */,
+				068ECCA31FD376F9006C0728 /* OpenApiService.swift */,
+				068B1ED51FD38D9E00C6A3EC /* BalanceModel.swift */,
 			);
 			path = RewardsBitCoin;
+			sourceTree = "<group>";
+		};
+		4FE9769294B42071DB532C46 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				259CD8751EC7C64C53F86458 /* Pods_RewardsBitCoin.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BFC685595E218DC929C4095A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FFD9283DBA72434F683ED475 /* Pods-RewardsBitCoin.debug.xcconfig */,
+				72A962EFB4514C77B4D94D53 /* Pods-RewardsBitCoin.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +128,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0608AEC81FD33B49009EF983 /* Build configuration list for PBXNativeTarget "RewardsBitCoin" */;
 			buildPhases = (
+				3967CC5411B1C53CAD740730 /* [CP] Check Pods Manifest.lock */,
 				0608AEB21FD33B49009EF983 /* Sources */,
 				0608AEB31FD33B49009EF983 /* Frameworks */,
 				0608AEB41FD33B49009EF983 /* Resources */,
+				815DE35D80B2FE3DB934D08C /* [CP] Embed Pods Frameworks */,
+				D98EB6D1710193FD16AC2820 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -123,6 +183,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				068B1EE01FD4314E00C6A3EC /* img1.png in Resources */,
+				068B1EE11FD4314E00C6A3EC /* img2.png in Resources */,
+				068B1EE21FD4314E00C6A3EC /* img3.png in Resources */,
 				0608AEC41FD33B49009EF983 /* LaunchScreen.storyboard in Resources */,
 				0608AEC11FD33B49009EF983 /* Assets.xcassets in Resources */,
 				0608AEBF1FD33B49009EF983 /* Main.storyboard in Resources */,
@@ -131,12 +194,68 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		3967CC5411B1C53CAD740730 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		815DE35D80B2FE3DB934D08C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RewardsBitCoin/Pods-RewardsBitCoin-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D98EB6D1710193FD16AC2820 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RewardsBitCoin/Pods-RewardsBitCoin-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0608AEB21FD33B49009EF983 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0608AECC1FD36C3D009EF983 /* CollectionViewController.swift in Sources */,
+				068ECCAA1FD384C1006C0728 /* ComprarViewController.swift in Sources */,
+				068ECCA41FD376F9006C0728 /* OpenApiService.swift in Sources */,
+				068B1ED81FD3A8BA00C6A3EC /* TotalViewController.swift in Sources */,
 				0608AEBC1FD33B49009EF983 /* ViewController.swift in Sources */,
+				068B1ED61FD38D9E00C6A3EC /* BalanceModel.swift in Sources */,
+				068ECCA61FD3776C006C0728 /* Rewards.swift in Sources */,
+				068ECCA81FD37C58006C0728 /* SaberMaisViewController.swift in Sources */,
+				0608AECE1FD36DB9009EF983 /* CellMain.swift in Sources */,
 				0608AEBA1FD33B49009EF983 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,6 +391,7 @@
 		};
 		0608AEC91FD33B49009EF983 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FFD9283DBA72434F683ED475 /* Pods-RewardsBitCoin.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -287,6 +407,7 @@
 		};
 		0608AECA1FD33B49009EF983 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 72A962EFB4514C77B4D94D53 /* Pods-RewardsBitCoin.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
