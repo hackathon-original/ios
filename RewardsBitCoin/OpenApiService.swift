@@ -14,7 +14,7 @@ import Foundation
 //  Created by Eduardo Paganini on 10/24/17.
 //  Copyright © 2017 Eduardo Paganini. All rights reserved.
 // Simples classe de servico para consultar dados da api Original
-//
+
 
 import Foundation
 

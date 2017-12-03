@@ -39,6 +39,7 @@
 		068ECCA51FD3776C006C0728 /* Rewards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rewards.swift; sourceTree = "<group>"; };
 		068ECCA71FD37C58006C0728 /* SaberMaisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaberMaisViewController.swift; sourceTree = "<group>"; };
 		068ECCA91FD384C1006C0728 /* ComprarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComprarViewController.swift; sourceTree = "<group>"; };
+		06A533611FD44372004ECD3A /* readme.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme.txt; sourceTree = "<group>"; };
 		259CD8751EC7C64C53F86458 /* Pods_RewardsBitCoin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RewardsBitCoin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		72A962EFB4514C77B4D94D53 /* Pods-RewardsBitCoin.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RewardsBitCoin.release.xcconfig"; path = "Pods/Target Support Files/Pods-RewardsBitCoin/Pods-RewardsBitCoin.release.xcconfig"; sourceTree = "<group>"; };
 		FFD9283DBA72434F683ED475 /* Pods-RewardsBitCoin.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RewardsBitCoin.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RewardsBitCoin/Pods-RewardsBitCoin.debug.xcconfig"; sourceTree = "<group>"; };
@@ -77,6 +78,7 @@
 		0608AEB81FD33B49009EF983 /* RewardsBitCoin */ = {
 			isa = PBXGroup;
 			children = (
+				06A533611FD44372004ECD3A /* readme.txt */,
 				0608AEB91FD33B49009EF983 /* AppDelegate.swift */,
 				068ECCA51FD3776C006C0728 /* Rewards.swift */,
 				0608AEBB1FD33B49009EF983 /* ViewController.swift */,
