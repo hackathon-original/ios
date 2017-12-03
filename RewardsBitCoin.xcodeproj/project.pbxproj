@@ -16,9 +16,6 @@
 		0608AECE1FD36DB9009EF983 /* CellMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0608AECD1FD36DB9009EF983 /* CellMain.swift */; };
 		068B1ED61FD38D9E00C6A3EC /* BalanceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B1ED51FD38D9E00C6A3EC /* BalanceModel.swift */; };
 		068B1ED81FD3A8BA00C6A3EC /* TotalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B1ED71FD3A8BA00C6A3EC /* TotalViewController.swift */; };
-		068B1EE01FD4314E00C6A3EC /* img1.png in Resources */ = {isa = PBXBuildFile; fileRef = 068B1EDD1FD430D800C6A3EC /* img1.png */; };
-		068B1EE11FD4314E00C6A3EC /* img2.png in Resources */ = {isa = PBXBuildFile; fileRef = 068B1EDE1FD430D800C6A3EC /* img2.png */; };
-		068B1EE21FD4314E00C6A3EC /* img3.png in Resources */ = {isa = PBXBuildFile; fileRef = 068B1EDF1FD430D800C6A3EC /* img3.png */; };
 		068ECCA41FD376F9006C0728 /* OpenApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068ECCA31FD376F9006C0728 /* OpenApiService.swift */; };
 		068ECCA61FD3776C006C0728 /* Rewards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068ECCA51FD3776C006C0728 /* Rewards.swift */; };
 		068ECCA81FD37C58006C0728 /* SaberMaisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068ECCA71FD37C58006C0728 /* SaberMaisViewController.swift */; };
@@ -38,9 +35,6 @@
 		0608AECD1FD36DB9009EF983 /* CellMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellMain.swift; sourceTree = "<group>"; };
 		068B1ED51FD38D9E00C6A3EC /* BalanceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalanceModel.swift; sourceTree = "<group>"; };
 		068B1ED71FD3A8BA00C6A3EC /* TotalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalViewController.swift; sourceTree = "<group>"; };
-		068B1EDD1FD430D800C6A3EC /* img1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img1.png; sourceTree = "<group>"; };
-		068B1EDE1FD430D800C6A3EC /* img2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img2.png; sourceTree = "<group>"; };
-		068B1EDF1FD430D800C6A3EC /* img3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img3.png; sourceTree = "<group>"; };
 		068ECCA31FD376F9006C0728 /* OpenApiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenApiService.swift; sourceTree = "<group>"; };
 		068ECCA51FD3776C006C0728 /* Rewards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rewards.swift; sourceTree = "<group>"; };
 		068ECCA71FD37C58006C0728 /* SaberMaisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaberMaisViewController.swift; sourceTree = "<group>"; };
@@ -83,9 +77,6 @@
 		0608AEB81FD33B49009EF983 /* RewardsBitCoin */ = {
 			isa = PBXGroup;
 			children = (
-				068B1EDD1FD430D800C6A3EC /* img1.png */,
-				068B1EDE1FD430D800C6A3EC /* img2.png */,
-				068B1EDF1FD430D800C6A3EC /* img3.png */,
 				0608AEB91FD33B49009EF983 /* AppDelegate.swift */,
 				068ECCA51FD3776C006C0728 /* Rewards.swift */,
 				0608AEBB1FD33B49009EF983 /* ViewController.swift */,
@@ -183,9 +174,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				068B1EE01FD4314E00C6A3EC /* img1.png in Resources */,
-				068B1EE11FD4314E00C6A3EC /* img2.png in Resources */,
-				068B1EE21FD4314E00C6A3EC /* img3.png in Resources */,
 				0608AEC41FD33B49009EF983 /* LaunchScreen.storyboard in Resources */,
 				0608AEC11FD33B49009EF983 /* Assets.xcassets in Resources */,
 				0608AEBF1FD33B49009EF983 /* Main.storyboard in Resources */,
